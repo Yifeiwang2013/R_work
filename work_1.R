@@ -388,3 +388,5 @@ table(rollingsales$ZIP.CODE)
 
 hist(as.numeric(rollingsales$SALE.PRICE),main='location by price')
 plot(NewRolling[,-c(1)])
+
+
